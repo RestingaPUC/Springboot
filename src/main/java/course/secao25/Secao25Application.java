@@ -9,5 +9,4 @@ public class Secao25Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Secao25Application.class, args);
 	}
-
 }
